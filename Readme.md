@@ -1,0 +1,8 @@
+# How to export different report groups to different sheets in an XLS file
+
+
+<p>This example illustrates how to use the Microsoft.Office.Interop.Excel.dll to export different groups in the report onto different sheets.</p><p>We have implemented the <a href="https://www.devexpress.com/Support/Center/p/S33129">S33129</a> suggestion with the v2009 vol 3 version of the suite, which provides build-in capability to accomplish this task.</p>
+
+<br/>
+
+
